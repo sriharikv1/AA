@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>India Wins CT 2025!</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>India Wins the Cricket T20 World Cup 2025!</h1>
+  </header>
+
+  <main>
+    <section class="hero">
+      <img src="trophy.jpg" alt="India Wins CT 2025">
+      <p>Congratulations to Team India for an outstanding victory in the T20 World Cup 2025!</p>
+    </section>
+
+    <section class="match-details">
+      <h2>Match Highlights</h2>
+      <ul>
+        <li><strong>Final Match:</strong> India vs Australia</li>
+        <li><strong>Venue:</strong> Lord's Cricket Ground, London</li>
+        <li><strong>Result:</strong> India won by 8 wickets</li>
+        <li><strong>Man of the Match:</strong> Virat Kohli</li>
+        <li><strong>Man of the Series:</strong> Jasprit Bumrah</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>Celebrating India's victory in the T20 World Cup 2025!</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

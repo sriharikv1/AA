@@ -1,0 +1,9 @@
+// script.js
+document.addEventListener("DOMContentLoaded", function () {
+  const heroSection = document.querySelector(".hero");
+  const dynamicMessage = document.createElement("p");
+  dynamicMessage.textContent = "What a thrilling match! India makes history again!";
+  dynamicMessage.style.fontWeight = "bold";
+  dynamicMessage.style.color = "#e53e3e";
+  heroSection.appendChild(dynamicMessage);
+});
